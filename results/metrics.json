@@ -1,0 +1,13 @@
+{
+  "classes": 97,
+  "train_images": 5193,
+  "val_images": 576,
+  "test_images": 1153,
+  "epochs": 12,
+  "image_size": 96,
+  "final_train_acc": 0.6289,
+  "final_val_acc": 0.8247,
+  "test_acc": 0.8283,
+  "test_loss": 0.6118,
+  "seconds": 167.4
+}
